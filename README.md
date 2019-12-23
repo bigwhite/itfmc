@@ -26,7 +26,7 @@ interfaces in total by name= 314
 
 * ```a[1] = 315``` means there are **315** interfaces which only has **one** method.
 * ```a[2] = 113``` means there are **113** interfaces which only has **two** method.
-... ...
+* ... ...
 
 The input data passed to itfmc should be follow these rules:
 * no blank line: grep -v ^$
