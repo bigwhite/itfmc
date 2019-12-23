@@ -29,5 +29,5 @@ interfaces in total by name= 314
 * ... ...
 
 The input data passed to itfmc should be follow these rules:
-* no blank line: grep -v ^$
-* no comment line: grep -v "^[[:space:]]*\/\/"
+* no blank line: ```grep -v ^$```
+* no comment line: ```grep -v "^[[:space:]]*\/\/"```
