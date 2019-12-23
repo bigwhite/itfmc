@@ -21,11 +21,11 @@ a[16] = 1
 a[17] = 1
 a[31] = 1
 interfaces in total = 533
-interface in total by name= 314
+interfaces in total by name= 314
 ```
 
-```a[1] = 315``` means there are **315** interfaces which only has **one** method.
-```a[2] = 113``` means there are **113** interfaces which only has **two** method.
+* ```a[1] = 315``` means there are **315** interfaces which only has **one** method.
+* ```a[2] = 113``` means there are **113** interfaces which only has **two** method.
 ... ...
 
 The input data passed to itfmc should be follow these rules:
